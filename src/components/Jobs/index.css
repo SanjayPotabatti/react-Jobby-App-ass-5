@@ -1,0 +1,51 @@
+.jobsBg {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+}
+.seachInput {
+  background-color: transparent;
+  border: none;
+  width: 250px;
+  height: 35px;
+}
+.seachInput:hover {
+  background-color: transparent;
+  color: #ffffff;
+}
+.inputContainer {
+  border: solid 1px #2c364c;
+  border-radius: 5px;
+  width: 80%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.searchIcon {
+  color: #ffffff;
+  background-color: #202020;
+  width: 35px;
+  height: 35px;
+}
+
+.userDetailsContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  padding: 10px;
+}
+.profileImg {
+  width: 40px;
+}
+.userName {
+  color: #4f46e5;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.userBio {
+  color: #64748b;
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.hrStyle {
+  border-color: #64748b;
+}

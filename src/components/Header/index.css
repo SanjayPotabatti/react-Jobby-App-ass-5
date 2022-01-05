@@ -1,0 +1,23 @@
+.logoImg {
+  width: 80px;
+}
+.navBackground {
+  background-color: #202020;
+}
+.logoutButton {
+  background-color: #6366f1;
+  border: 0px;
+  width: 100px;
+  color: #ffffff;
+  border-radius: 5px;
+  height: 30px;
+}
+.homePara {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.smallContainer {
+  display: flex;
+  flex-direction: row;
+}
